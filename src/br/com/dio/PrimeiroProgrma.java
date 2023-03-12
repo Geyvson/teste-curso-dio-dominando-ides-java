@@ -10,5 +10,4 @@ public class PrimeiroProgrma {
 		System.out.println(gato);
 		
 	}
-
 }
